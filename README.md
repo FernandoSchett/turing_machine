@@ -1,4 +1,4 @@
-<h1 align="center">✈️ Orange Airlines Machine ✈️</h1>
+<h1 align="center">✈️ Turing Airlines Machine ✈️</h1>
 
 <div align="center">
 	<a href="link_for_webite">
@@ -35,7 +35,7 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 ## Logic Model 🧮:
 
-Here's the logic model that represents how the code works with their classes.
+Here's the logic model that represents how the turing machines work.
 
 <div align="center">
 	<a href="">
