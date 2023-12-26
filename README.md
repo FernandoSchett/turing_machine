@@ -25,26 +25,34 @@ The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calc
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the ```file_name``` file with the command:
+First, clone this repository. After that, execute [JFLAP](https://www.jflap.org/) with:
 
-    sudo command_for_running_project
+    java -jar JFLAP7.1.jar 
 
-## Screens 🎬:
+After that, open ```MT1.jff``` or ```MT2.jff```. Remember to alter the preferences when opening ```MT2.jff``` like in image 1.
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "./assets/mt2_preferences.png" />
+    </a>
+</div>
+<h4 align="center">Figure 1 - TM1 image.</h4>
+
+## TM's 🎬:
 
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "./assets/MT1_img.png" />
     </a>
 </div>
-<h4 align="center">Figure 1 - TM1 image.</h4>
+<h4 align="center">Figure 2 - TM1 image.</h4>
 
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "./assets/MT2.png" />
     </a>
 </div>
-<h4 align="center">Figure 2 - Screens from the image.</h4>
-
+<h4 align="center">Figure 3 - TM2 image.</h4>
 
 ## Logic Model 🧮:
 
@@ -55,7 +63,7 @@ Here's the logic model that represents how the turing machines work.
 	<img height = "250em" src = "./assets/logic_model.png" />
     </a>
 </div>
-<h4 align="center">Figure 3 - Turing machines logic model.</h4>
+<h4 align="center">Figure 4 - Turing machines logic model.</h4>
 
 ### Tools Used 🛠️: 
 
