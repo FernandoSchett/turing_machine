@@ -50,7 +50,7 @@ Here's the logic model that represents how the turing machines work.
 
 ### Tools Used 🛠️: 
 
-- [JFLAP](https://www.jflap.org/).  
+- [JFLAP](https://www.jflap.org/), for designing the TM's.  
 - [Overleaf](https://pt.overleaf.com/), for writing the [report]().  
 
 ## Licence 📜:
@@ -59,7 +59,15 @@ Here's the logic model that represents how the turing machines work.
 
 ## References 📙:
 	
-[1] <last_author_name>, <first_author_name>. <work_title>. XX/XX/XX.
-	
-[2] <work_title>, <author_name>. Avaliable in: <https://www.link.com>. Access in em XX/XX/XX.
+
+[1] SIPSER, Michael. Michael. Introduction to the Theory of Computation. 2nd Edi-
+tion. Boston: Thomson Course Technology, 2006.
+
+[2] VIEIRA, Newton José. Languages and Machines: An Introduction to the Funda-
+mentals of Computing. 1st Edition. Belo Horizonte: Department of Computer Science,
+Institute of Exact Sciences, Federal University of Minas Gerais, 2004.
+
+[3] GEEKS FOR GEEKS. Turing Machine as Comparator. Geeks for Geeks, 2023.
+Available at: https://www.geeksforgeeks.org/turing-machine-as-comparator/
+Accessed on: November 20, 2023.
 
