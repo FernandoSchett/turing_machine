@@ -7,14 +7,18 @@
 </div>
 
 ## Developed by 💻:
+
 - [Fernando Schettini](https://linktr.ee/fernandoschett).
 
 ## About 🤔:
 
+The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calculate the arrival time at a destination based on flight duration, departure time, departure meridian, and arrival meridian (in degrees, with east and west indicators). These machines serve as computational tools for addressing time-related complexities in air travel, more details at the [report]().
+
 ## Resourses 🧑‍🔬:
 
-- 
-- 
+- MT1: classic single-tape Turing Machine it processes input data on a single tape to determine the arrival time at the destination.
+
+- MT2: a new machine that introduces a two-tape Turing Machine with enhanced parallel processing capabilities. With dual tapes and transitions from the final state, MT2 show a simple example of how it can provide flexibility and computational efficiency.
 
 ## Results 📈:
 
@@ -39,10 +43,10 @@ Here's the logic model that represents how the turing machines work.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "./assets/logic_model.png" />
     </a>
 </div>
-<h4 align="center">Figure 3 - Logic Model.</h4>
+<h4 align="center">Figure 3 - Turing machines logic model.</h4>
 
 ### Tools Used 🛠️: 
 
