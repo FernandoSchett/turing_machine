@@ -21,8 +21,6 @@ The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calc
 
 - MT2 O(n): a new machine that introduces a two-tape Turing Machine with enhanced parallel processing capabilities. With dual tapes and transitions from the final state, MT2 show a simple example of how it can provide flexibility with more tapes.
 
-## Results 📈:
-
 ## How to run it 🏃:
 
 First, clone this repository. After that, execute [JFLAP](https://www.jflap.org/) with:
