@@ -9,6 +9,7 @@
 ## Developed by 💻:
 
 - [Fernando Schettini](https://linktr.ee/fernandoschett).
+- Heverton Silva dos Reis
 
 ## About 🤔:
 
