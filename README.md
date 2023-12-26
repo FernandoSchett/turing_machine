@@ -9,7 +9,7 @@
 ## Developed by 💻:
 
 - [Fernando Schettini](https://linktr.ee/fernandoschett).
-- Heverton Silva dos Reis
+- Heverton Silva dos Reis.
 
 ## About 🤔:
 
@@ -33,17 +33,17 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "./assets/MT2.png" />
+	<img height = "250em" src = "./assets/MT1_img.png" />
     </a>
 </div>
-<h4 align="center">Figure 1 - Screens from the TM1.</h4>
+<h4 align="center">Figure 1 - TM1 image.</h4>
 
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "./assets/MT2.png" />
     </a>
 </div>
-<h4 align="center">Figure 2 - Screens from the TM2.</h4>
+<h4 align="center">Figure 2 - Screens from the image.</h4>
 
 
 ## Logic Model 🧮:
