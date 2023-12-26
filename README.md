@@ -47,6 +47,7 @@ Here's the logic model that represents how the turing machines work.
 ### Tools Used 🛠️: 
 
 - [JFLAP](https://www.jflap.org/).  
+- [Overleaf](https://pt.overleaf.com/), for writing the [report]().  
 
 ## Licence 📜:
 
