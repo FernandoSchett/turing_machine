@@ -12,7 +12,7 @@
 
 ## About 🤔:
 
-The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calculate the arrival time at a destination based on flight duration, departure time, departure meridian, and arrival meridian (in degrees, with east and west indicators). These machines serve as computational tools for addressing time-related complexities in air travel, more details at the [report]().
+The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calculate the arrival time at a destination based on flight duration, departure time, departure meridian, and arrival meridian (in degrees, with east and west indicators) all these parameters are represented in unary base. More details at the [report]().
 
 ## Resourses 🧑‍🔬:
 
