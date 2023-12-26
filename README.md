@@ -12,7 +12,7 @@
 
 ## About 🤔:
 
-The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calculate the arrival time at a destination based on flight duration, departure time, departure meridian, and arrival meridian (in degrees, with east and west indicators) all these parameters are represented in unary base. More details at the [report]().
+The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calculate the arrival time at a destination based on flight duration, departure time, departure meridian, and arrival meridian (in degrees, with east and west indicators) all these parameters are represented in unary base. More details at the [report](https://github.com/FernandoSchett/turing_machine/blob/main/tm_dev_report_and_docs.pdf).
 
 ## Resourses 🧑‍🔬:
 
@@ -51,7 +51,7 @@ Here's the logic model that represents how the turing machines work.
 ### Tools Used 🛠️: 
 
 - [JFLAP](https://www.jflap.org/), for designing the TM's.  
-- [Overleaf](https://pt.overleaf.com/), for writing the [report]().  
+- [Overleaf](https://pt.overleaf.com/), for writing the [report](https://github.com/FernandoSchett/turing_machine/blob/main/tm_dev_report_and_docs.pdf).  
 
 ## Licence 📜:
 
