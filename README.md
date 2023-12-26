@@ -17,9 +17,9 @@ The GitHub project introduces two Turing Machines, MT1 and MT2, designed to calc
 
 ## Resourses 🧑‍🔬:
 
-- MT1: classic single-tape Turing Machine it processes input data on a single tape to determine the arrival time at the destination.
+- MT1 O(n^2): classic single-tape Turing Machine it processes input data on a single tape to determine the arrival time at the destination.
 
-- MT2: a new machine that introduces a two-tape Turing Machine with enhanced parallel processing capabilities. With dual tapes and transitions from the final state, MT2 show a simple example of how it can provide flexibility and computational efficiency.
+- MT2 O(n): a new machine that introduces a two-tape Turing Machine with enhanced parallel processing capabilities. With dual tapes and transitions from the final state, MT2 show a simple example of how it can provide flexibility with more tapes.
 
 ## Results 📈:
 
@@ -33,7 +33,7 @@ After that, open ```MT1.jff``` or ```MT2.jff```. Remember to alter the preferenc
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "./assets/mt2_preferences.png" />
+	<img height = "250em" src = "./assets/mt2_preferences.jpeg" />
     </a>
 </div>
 <h4 align="center">Figure 1 - TM1 image.</h4>
@@ -49,7 +49,7 @@ After that, open ```MT1.jff``` or ```MT2.jff```. Remember to alter the preferenc
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "./assets/MT2.png" />
+	<img height = "250em" src = "./assets/MT2_img.png" />
     </a>
 </div>
 <h4 align="center">Figure 3 - TM2 image.</h4>
