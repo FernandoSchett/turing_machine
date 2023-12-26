@@ -32,10 +32,18 @@ First, clone this repository. After that, simply execute the ```file_name``` fil
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "./assets/MT2.png" />
     </a>
 </div>
-<h4 align="center">Figure 1 - Screens from the TM'S </h4>
+<h4 align="center">Figure 1 - Screens from the TM1.</h4>
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "./assets/MT2.png" />
+    </a>
+</div>
+<h4 align="center">Figure 2 - Screens from the TM2.</h4>
+
 
 ## Logic Model 🧮:
 
